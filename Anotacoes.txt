@@ -1,0 +1,11 @@
+criar nova aplicação
+dotnet new mvc -o scalffod
+entra na pasta scalffod e abre com o vscod
+temos de mudança o appsettings
+dotnet framework é para suporte em windows
+dotnet core é para mais plataformas, como mac
+dotnet fullframework conseguimos criar dentro dele aplicações em vários tipos de arquitetura
+gerou wwwroot - arquivos css
+gerou Controllers
+Pasta com mesmo nome de Controler e arquivo html com mesmo nome de aç~çao
+O html não é inteiro, pois existe o laytou
